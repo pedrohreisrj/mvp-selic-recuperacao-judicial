@@ -1,9 +1,3 @@
-
-| Plataforma | Linguagem Principal | Ambiente | Status |
-| :--- | :--- | :--- | :--- |
-| **Databricks Free Edition** | **SQL & Python** | Unity Catalog (`mvp_juros_rj`) | ✅ Concluído |
-
-
 # MVP — Trajetória da Selic e seu Impacto na Recuperação Judicial de Empresas no Brasil
 
 > Trabalho da sprint de Engenharia de Dados — Pós-graduação em Ciência de Dados e Analytics (PUC-Rio)
