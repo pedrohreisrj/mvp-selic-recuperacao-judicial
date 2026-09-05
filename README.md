@@ -1,3 +1,8 @@
+![Databricks](https://shields.io)
+![SQL](https://shields.io)
+![Python](https://shields.io)
+
+
 # MVP — Trajetória da Selic e seu Impacto na Recuperação Judicial de Empresas no Brasil
 
 > Trabalho da sprint de Engenharia de Dados — Pós-graduação em Ciência de Dados e Analytics (PUC-Rio)
