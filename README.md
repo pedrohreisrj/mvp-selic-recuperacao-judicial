@@ -1,6 +1,7 @@
-![Databricks](https://shields.io)
-![SQL](https://shields.io)
-![Python](https://shields.io)
+
+| Plataforma | Linguagem Principal | Ambiente | Status |
+| :--- | :--- | :--- | :--- |
+| **Databricks Free Edition** | **SQL & Python** | Unity Catalog (`mvp_juros_rj`) | ✅ Concluído |
 
 
 # MVP — Trajetória da Selic e seu Impacto na Recuperação Judicial de Empresas no Brasil
