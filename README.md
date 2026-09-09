@@ -5,6 +5,8 @@
 
 **Status geral:** ✅ Concluído
 
+Esse README foi estruturado de acordo com os Critérios de Avaliação do MVP (Etapa 5,2)
+
 ## Sobre este projeto
 
 Este projeto investiga se anos de juros altos no Brasil se refletem no aumento de empresas que entram em recuperação judicial, o processo legal que uma empresa endividada usa para renegociar dívidas e tentar evitar a falência. Construí um pipeline de dados completo na nuvem, usando o Databricks, unindo dados públicos do Banco Central com um indicador de mercado sobre falências e recuperações judiciais, para tentar responder essa pergunta com dados reais em vez de só intuição.
