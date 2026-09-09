@@ -56,7 +56,7 @@ São três fontes e três processos de carga diferentes, todas armazenadas como 
 2. **Falências e RJ mensal**: dado exportado manualmente do site da Serasa Experian (via formulário de cadastro, arquivo `.xlsx`), enviado para um Volume do Unity Catalog e lido no notebook com pandas e PySpark.
 3. **Contexto anual**: compilado manualmente a partir de vários comunicados de imprensa da Serasa Experian, inserido diretamente como uma tabela estruturada no notebook. Não existe um arquivo de origem único aqui, já que é uma agregação de várias fontes textuais.
 
-Cada tabela Bronze recebeu duas colunas de metadado: `data_ingestao` (quando o dado foi carregado) e `fonte` (de onde ele veio), preservando a rastreabilidade que a arquitetura medalhão pede.
+A tabela Bronze recebeu duas colunas de metadado: `data_ingestao` (quando o dado foi carregado) e `fonte` (de onde ele veio), preservando a rastreabilidade que a arquitetura medalhão pede.
 
 **Notebook:** `01_bronze_ingestao_fontes`, precedido pelo notebook de setup `00_setup_catalogo_schemas`.
 
