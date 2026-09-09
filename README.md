@@ -5,7 +5,7 @@
 
 **Status geral:** ✅ Concluído
 
-Esse README foi estruturado de acordo com os Critérios de Avaliação do MVP (Etapa 5,2)
+Esse README foi estruturado de acordo com os Critérios de Avaliação do MVP (Etapa 5.2)
 
 ## Sobre este projeto
 
