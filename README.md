@@ -82,7 +82,7 @@ O modelo segue um Esquema Estrela enxuto, pensado para o nível de agregação r
 - **`gold.fato_indicadores_mensais`**: fato principal, no grão de um mês. Junta `silver.selic_mensal` com `silver.rj_falencias_mensal` pela chave de mês. Alimenta a Pergunta 1.
 - **`gold.fato_contexto_anual`**: fato secundário, no grão de um ano. É praticamente uma promoção direta da camada Silver, sem junções. Alimenta a Pergunta 2.
 
-![Modelo dimensional da camada Gold](imagens/esquema-estrela.png)
+![Modelo dimensional da camada Gold](imagens/esquema_estrela.png)
 
 Duas decisões de modelagem valem ser explicadas:
 
